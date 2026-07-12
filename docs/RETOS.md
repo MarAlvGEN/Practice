@@ -1,6 +1,6 @@
 # Mapa de Retos
 
-¡Elige un reto, lee las instrucciones y ponte a practica!
+¡Elige un reto, lee las instrucciones y ponte a practicar!
 
 Las soluciones están disponibles para que puedas comparar tu enfoque. Recuerda que cada mente es un mundo y cada enfoque es distinto~
 
