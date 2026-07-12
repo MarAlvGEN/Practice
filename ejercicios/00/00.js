@@ -45,7 +45,6 @@ function analizarCadena(texto) {
   if (charAux == 1) {
     console.log("No hubo repetidos");
   } else {
-    console.log("SE DESTINGUEN MAYUSCULAS");
     console.log(
       `El caracter más repetido es "${charMasRepetido}" con un total de "${charAux}" repeticiones`,
     );
