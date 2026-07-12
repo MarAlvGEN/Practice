@@ -26,7 +26,7 @@ function analizarCadena(texto) {
   textoAux = texto;
   let textoRepetido = {};
   let charMasRepetido;
-  let charAux = 1;
+  let charAux = 0;
   for (const iterator of texto) {
     textoRepetido[iterator] = (textoRepetido[iterator] || 0) + 1;
 
